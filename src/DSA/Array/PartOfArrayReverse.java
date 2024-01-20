@@ -6,7 +6,7 @@ public class PartOfArrayReverse {
         int start_index=3;
         int end_index=7;
         reverse(arr,start_index,end_index);
-        System.out.println("Rajatwghahjh");
+
     }
     public static  void reverse(int[]arr,int sp,int ep){
         while(sp<ep){
