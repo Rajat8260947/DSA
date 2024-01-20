@@ -9,6 +9,7 @@ public class PartOfArrayReverse {
         System.out.println("After reverse");
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i]);
+        }
     }
     public static  void reverse(int[]arr,int sp,int ep){
         while(sp<ep){
@@ -20,7 +21,7 @@ public class PartOfArrayReverse {
         }
        
 
-        }
+        
     }
 
 }
